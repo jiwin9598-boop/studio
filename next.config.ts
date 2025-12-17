@@ -30,6 +30,11 @@ const nextConfig: NextConfig = {
       },
     ],
   },
+  experimental: {
+    allowedDevOrigins: [
+      'https://6000-firebase-studymate2dup-ai-1765995450453.cluster-ys234awlzbhwoxmkkse6qo3fz6.cloudworkstations.dev',
+    ],
+  },
 };
 
 export default nextConfig;
