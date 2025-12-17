@@ -1,3 +1,40 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "calculus-notes",
+      "description": "Comprehensive Calculus Notes",
+      "imageUrl": "https://images.unsplash.com/photo-1674664900495-23e53956f249?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxub3RlYm9vayUyMHN0dWR5fGVufDB8fHx8MTc2NTk5NTI4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "notebook study"
+    },
+    {
+      "id": "history-article",
+      "description": "In-depth article on Ancient Rome",
+      "imageUrl": "https://images.unsplash.com/photo-1579370318443-8da816457e3d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxsaWJyYXJ5JTIwYm9va3N8ZW58MHx8fHwxNzY1OTgyNzY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "library books"
+    },
+    {
+      "id": "physics-video",
+      "description": "Video Tutorial: Quantum Mechanics",
+      "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxsYXB0b3AlMjBzY3JlZW58ZW58MHx8fHwxNzY1ODcwNDA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "laptop screen"
+    },
+    {
+      "id": "chemistry-guide",
+      "description": "Guide to Organic Chemistry Reactions",
+      "imageUrl": "https://images.unsplash.com/photo-1606206873764-fd15e242df52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzY2llbmNlJTIwbGFifGVufDB8fHx8MTc2NTkzMzMwOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "science lab"
+    },
+    {
+      "id": "literature-summary",
+      "description": "Summary of Shakespeare's Macbeth",
+      "imageUrl": "https://images.unsplash.com/photo-1594305342010-1f62e803490f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxib29rJTIwb3BlbnxlbnwwfHx8fDE3NjU5MjM2ODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "book open"
+    },
+    {
+      "id": "coding-tutorial",
+      "description": "JavaScript Promises: A Complete Guide",
+      "imageUrl": "https://images.unsplash.com/photo-1591439657848-9f4b9ce436b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y29kZSUyMGNvbXB1dGVyfGVufDB8fHx8MTc2NTk5NTI4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "code computer"
+    }
+  ]
 }
